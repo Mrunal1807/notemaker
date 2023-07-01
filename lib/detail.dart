@@ -21,7 +21,7 @@ class _detailsState extends State<details> {
   @override
   Widget build(BuildContext context) {
 
-  
+
     // TODO: implement build
     return Scaffold(
       appBar: _appBar(),

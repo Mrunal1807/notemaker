@@ -38,7 +38,7 @@ class _HomeState extends State<Home> {
       appBar: AppBar(
         centerTitle: true,
         backgroundColor:Colors.blueGrey.shade700,
-        title: Text("Note Maker",style: TextStyle(fontSize: 24),),
+        title: Text("Notes Maker",style: TextStyle(fontSize: 24),),
       ),
       body: StreamBuilder(
           stream: _stream,
