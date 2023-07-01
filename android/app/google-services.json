@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576897452413",
+    "project_id": "notemate-98082",
+    "storage_bucket": "notemate-98082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576897452413:android:d37541a11eb6487f7a6414",
+        "android_client_info": {
+          "package_name": "com.example.notesave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576897452413-1nogai1aqkk1uan3aq22f0jvpiv1muna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD483qbANZQ4PcAgPa59j0xrAx_u68fxtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576897452413-1nogai1aqkk1uan3aq22f0jvpiv1muna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
